@@ -525,7 +525,7 @@ textarea {
 }
 
 .footer-form-input:focus {
-    border-color: #4d5ae5;
+    border-color: #31d0aa;
 }
 
 .footer-form-btn {
@@ -549,7 +549,7 @@ textarea {
 
 .footer-form-btn:hover,
 .footer-form-btn:focus {
-    background-color: #404bbf;
+    background-color: #31d0aa;
 }
 
 .footer-form-icon {
